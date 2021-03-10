@@ -4,7 +4,7 @@
 
  export { BinaryHeap }
 
-class BinaryHeap {
+  class BinaryHeap {
 
     constructor() {
         this.heap = [];
